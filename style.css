@@ -11,10 +11,12 @@ html,body{
     font-family: sans-serif;
     outline: none;
 }
+/* main heading */
 .text-center{
     text-align: center;
     margin: 2rem;
 }
+/* main container */
 .container{
     height: 100vh;
     display: flex;
